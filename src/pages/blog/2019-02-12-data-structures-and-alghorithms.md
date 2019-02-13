@@ -9,3 +9,5 @@ tags:
   - Data Structures
 ---
 Welcome to csportal! This is a introduction to wonderful world of Data Structures and Alghoritms.
+
+![Computer Science](/img/pexels-photo-546819.jpg "Computer Science")
